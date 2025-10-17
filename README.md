@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0412-fizz-buzz) |
+| [0728-self-dividing-numbers](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0728-self-dividing-numbers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2383-add-two-integers) |
