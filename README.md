@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2812-find-the-maximum-achievable-number) |
 | [3371-harshad-number](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3830-find-closest-person](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3830-find-closest-person) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1635-number-of-good-pairs) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
