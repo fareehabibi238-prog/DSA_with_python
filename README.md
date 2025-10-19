@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0728-self-dividing-numbers) |
+| [1086-divisor-game](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1086-divisor-game) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -59,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0412-fizz-buzz) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1086-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
