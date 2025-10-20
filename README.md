@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2032-largest-odd-number-in-string) |
+| [2083-three-divisors](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2383-add-two-integers) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2491-smallest-even-multiple) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2032-largest-odd-number-in-string) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
