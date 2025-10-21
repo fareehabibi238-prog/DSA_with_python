@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0728-self-dividing-numbers) |
 | [1086-divisor-game](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1086-divisor-game) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -84,12 +85,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0415-add-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0415-add-strings) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Dynamic Programming
