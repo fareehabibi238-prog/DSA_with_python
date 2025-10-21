@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0292-nim-game) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
