@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0268-missing-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1950-sign-of-the-product-of-an-array) |
