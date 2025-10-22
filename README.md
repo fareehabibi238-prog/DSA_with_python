@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2630-alternating-digit-sum](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2812-find-the-maximum-achievable-number) |
+| [3321-type-of-triangle](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3511-find-the-winning-player-in-coin-game) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3321-type-of-triangle](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0268-missing-number) |
+| [3321-type-of-triangle](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3321-type-of-triangle) |
 ## Greedy
 |  |
 | ------- |
