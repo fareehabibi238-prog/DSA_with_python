@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3817-maximum-containers-on-a-ship](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3830-find-closest-person) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3994-find-the-least-frequent-digit](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3994-find-the-least-frequent-digit) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3994-find-the-least-frequent-digit](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3994-find-the-least-frequent-digit) |
 ## Hash Table
