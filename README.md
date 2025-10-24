@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3778-transform-array-by-parity](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3994-find-the-least-frequent-digit](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3994-find-the-least-frequent-digit) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1635-number-of-good-pairs) |
+| [3778-transform-array-by-parity](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3778-transform-array-by-parity) |
 | [3994-find-the-least-frequent-digit](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3994-find-the-least-frequent-digit) |
 ## Number Theory
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0268-missing-number) |
 | [3321-type-of-triangle](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3321-type-of-triangle) |
+| [3778-transform-array-by-parity](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3778-transform-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
