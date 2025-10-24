@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3994-find-the-least-frequent-digit](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3994-find-the-least-frequent-digit) |
 | [4008-restore-finishing-order](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/4008-restore-finishing-order) |
+| [4058-compute-alternating-sum](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/4058-compute-alternating-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [4058-compute-alternating-sum](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/4058-compute-alternating-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
