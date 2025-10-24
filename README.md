@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3994-find-the-least-frequent-digit](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3994-find-the-least-frequent-digit) |
+| [4008-restore-finishing-order](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/4008-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1635-number-of-good-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3994-find-the-least-frequent-digit](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3994-find-the-least-frequent-digit) |
+| [4008-restore-finishing-order](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/4008-restore-finishing-order) |
 ## Counting
 |  |
 | ------- |
