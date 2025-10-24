@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3321-type-of-triangle](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0415-add-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2032-largest-odd-number-in-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0415-add-strings) |
 | [2058-concatenation-of-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
