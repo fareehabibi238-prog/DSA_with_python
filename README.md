@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1635-number-of-good-pairs) |
+| [1944-truncate-sentence](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0415-add-strings) |
+| [1944-truncate-sentence](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1944-truncate-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2219-maximum-number-of-words-found-in-sentences) |
