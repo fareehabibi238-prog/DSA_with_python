@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -218,5 +220,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1019-squares-of-a-sorted-array) |
 | [2551-apply-operations-to-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
