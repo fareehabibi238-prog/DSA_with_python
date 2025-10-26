@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3994-find-the-least-frequent-digit](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3994-find-the-least-frequent-digit) |
 | [4008-restore-finishing-order](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/4008-restore-finishing-order) |
+| [4012-earliest-time-to-finish-one-task](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4058-compute-alternating-sum](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/4058-compute-alternating-sum) |
 ## Hash Table
 |  |
