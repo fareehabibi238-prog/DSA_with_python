@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1580-shuffle-the-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1848-sum-of-unique-elements) |
 | [2159-two-out-of-three](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2159-two-out-of-three) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1848-sum-of-unique-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3242-count-elements-with-maximum-frequency) |
