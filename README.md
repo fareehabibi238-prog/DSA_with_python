@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2159-two-out-of-three](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2159-two-out-of-three) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1848-sum-of-unique-elements) |
+| [2159-two-out-of-three](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2159-two-out-of-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2159-two-out-of-three](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2159-two-out-of-three) |
 ## String
 |  |
 | ------- |
