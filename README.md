@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2551-apply-operations-to-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2551-apply-operations-to-an-array) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2551-apply-operations-to-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2551-apply-operations-to-an-array) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4058-compute-alternating-sum](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/4058-compute-alternating-sum) |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
