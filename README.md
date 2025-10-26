@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1848-sum-of-unique-elements) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3778-transform-array-by-parity](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3778-transform-array-by-parity) |
 | [3994-find-the-least-frequent-digit](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3994-find-the-least-frequent-digit) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0268-missing-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
