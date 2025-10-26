@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3321-type-of-triangle) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1848-sum-of-unique-elements) |
 | [2159-two-out-of-three](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2159-two-out-of-three) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
