@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3321-type-of-triangle) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2083-three-divisors) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Recursion
 |  |
 | ------- |
