@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3321-type-of-triangle) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/0268-missing-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3321-type-of-triangle) |
 | [3778-transform-array-by-parity](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3778-transform-array-by-parity) |
 ## Greedy
@@ -227,4 +230,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1019-squares-of-a-sorted-array) |
 | [2551-apply-operations-to-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2551-apply-operations-to-an-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
