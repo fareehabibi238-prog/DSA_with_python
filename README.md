@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1848-sum-of-unique-elements) |
 | [2159-two-out-of-three](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2159-two-out-of-three) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3321-type-of-triangle) |
 | [3778-transform-array-by-parity](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3778-transform-array-by-parity) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1019-squares-of-a-sorted-array) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2551-apply-operations-to-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
