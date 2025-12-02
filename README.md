@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/1848-sum-of-unique-elements) |
 | [2159-two-out-of-three](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2159-two-out-of-three) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
