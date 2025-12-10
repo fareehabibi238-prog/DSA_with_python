@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-smallest-index-with-equal-value](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2181-smallest-index-with-equal-value) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/2255-count-prefixes-of-a-given-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/fareehabibi238-prog/DSA_with_python/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
